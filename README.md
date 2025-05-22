@@ -1,0 +1,2 @@
+# avecr
+Calculate AVE (average variance extracted) and CR (composite factor reliability) for CFA (confirmation factor analysis) Use avecr With STATA 19
