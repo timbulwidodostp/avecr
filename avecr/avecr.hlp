@@ -1,0 +1,30 @@
+.-
+help for ^avecr^
+.-
+
+Calculate AVE (average variance extracted) and CR (composite factor reliability) for CFA (confirmation factor analysis)
+Average-Variance-Extracted & Composite-factor-Reliability
+----------------------
+
+ ^avecr^ var1
+ 
+Description
+-----------
+
+^avecr^ Calculate AVE (average variance extracted) and CR (composite factor reliability) for CFA (confirmation factor analysis)
+Average-Variance-Extracted & Composite-factor-Reliability.
+     
+^Note:^ Requires avecr.ado by Olah Data Semarang
+
+Examples
+--------
+
+ . ^qui sem Avecr -> avecr_1-avecr_6^
+ . ^avecr Avecr^
+
+Author
+------
+
+      Timbul Widodo
+      Olah Data Semarang
+      https://www.youtube.com/@amalsedekah
