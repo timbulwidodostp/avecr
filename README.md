@@ -3,6 +3,8 @@ Calculate AVE (average variance extracted) and CR (composite factor reliability)
 
 Average-Variance-Extracted & Composite-factor-Reliability Use avecr With STATA 19
 
+https://www.youtube.com/watch?v=NScW9D_0_ms
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
